@@ -35,7 +35,7 @@ streamlit run app.py
 Change the file path (app.py) as your local path
 
 Or search the website
-[https://badumdr5mni8wsqkcqlioj.streamlit.app/])
+[https://badumdr5mni8wsqkcqlioj.streamlit.app/]
 
 ## Methodology
 
