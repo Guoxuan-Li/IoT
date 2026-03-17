@@ -58,7 +58,7 @@ Normalized Index = [All Data/max(All Data)] * 100
 ### Anomaly Detection
 * **Social Anomalies:** Residuals exceeding 3 standard deviations (3-sigma).
 * **Physical Anomalies:** Values exceeding mean + 1 standard deviation.
-* **Association:** Events are linked if social anomalies occur within a +/- 2-hour window of a physical trigger.
+* **Association:** Events are linked if social anomalies occur within a +/- 1-hour window of a physical trigger.
 
 ## Technology
 * **Language:** Python
