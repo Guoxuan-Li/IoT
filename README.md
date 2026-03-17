@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 ### Running the Platform
-Launch the interactive dashboard locally:
+Launch the interactive dashboard locally (app.py in the code folder):
 ```
 streamlit run app.py
 ```
