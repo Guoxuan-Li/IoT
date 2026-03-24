@@ -34,7 +34,7 @@ streamlit run app.py
 ```
 Change the file path (app.py) as your local path
 
-Or click/search the website (unstable, sometimes there may be errors, which may due to the third-party service limitation. Running the app.py file locally is more stable.)
+Or click/search the website (Cloud deployment may experience temporary API rate-limiting. For full functionality, local execution app.py is recommended.)
 
 [https://badumdr5mni8wsqkcqlioj.streamlit.app/]
 
