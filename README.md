@@ -34,8 +34,10 @@ streamlit run app.py
 ```
 Change the file path (app.py) as your local path
 
-Or click/search the website (unstable)
+Or click/search the website (unstable, sometimes there may be errors. Running the app.py file locally is more stable.)
+
 [https://badumdr5mni8wsqkcqlioj.streamlit.app/]
+
 
 ## Methodology
 
